@@ -1,0 +1,17 @@
+{
+  "name": "syntesistest",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "serverless-offline": "^6.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
